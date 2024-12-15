@@ -1,0 +1,3 @@
+Implement FedAvg and two other federated learning algorithms. 
+Choose a heterogenous dataset and simulate a scenario to compare the performance of the federated learning algorithms. 
+Your submission should include the code and a report of your experimental analysis.
