@@ -1,0 +1,7 @@
+Choose a suitable dataset. 
+
+Part A: Implementation of LIME and SHAP
+Train a model that is not interpretable. Obtain explanations for the prediction of this model using LIME and SHAP.
+
+Part B: CNN Visualizations
+Generate visualizations for the predictions made using a CNN using Grad-CAM or any method of your choice.
