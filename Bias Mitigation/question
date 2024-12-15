@@ -1,0 +1,3 @@
+Choose any benchmark dataset with bias. Implement algorithms to (i) Detect the bias, (ii) Mitigate the bias in the dataset by either artificially generating new data or resampling the existing data.
+Verify the effectiveness of the bias removal through quantitative and qualitative results. 
+Your submission should include the code and a report.
